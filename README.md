@@ -16,3 +16,12 @@ Para editarlo crea una copia y para cambiar la distancia dale a el icono de una 
 
 <img width="287" height="227" alt="isometrica" src="https://github.com/user-attachments/assets/cb3192a1-e16f-427c-8f04-a63095ca0fec" />
 
+
+
+
+
+Instrucciones:
+Ejecuta git clone https://github.com/RJun010/Poleas-exc-ntricas-pirag-ismo-personalizado.git
+instala python si no lo tienes instalado
+y ejecuta el programa Calculadora_angulo_timón.py desde el directorio
+

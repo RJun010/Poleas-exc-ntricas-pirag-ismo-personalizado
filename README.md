@@ -11,7 +11,8 @@ link onshape: https://cad.onshape.com/documents/b7df1c6d75dbca150c312733/w/0a975
 
 Para editarlo crea una copia y para cambiar la distancia dale a el icono de una x a la derecha de la pantalla
 
-<img width="959" height="452" alt="Desde_arriba" src="https://github.com/user-attachments/assets/12b20c41-6bc6-4e3b-92d9-67f01e222f9d" />
+<img width="959" height="425" alt="sui" src="https://github.com/user-attachments/assets/089a33e1-8037-46b5-82e5-dd78e2019315" />
+
 
 
 <img width="287" height="227" alt="isometrica" src="https://github.com/user-attachments/assets/cb3192a1-e16f-427c-8f04-a63095ca0fec" />

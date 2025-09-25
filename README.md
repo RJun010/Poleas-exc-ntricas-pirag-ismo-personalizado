@@ -7,3 +7,4 @@ Para que cualquiera pueda crear su propio diseño de la polea, sin saber diseña
 
 ¿Cómo sabe el usuario esa distancia? Introduciendo los datos en mi programa de python que hace el cálculo, solo es necesario medir el recorrido completo del palo del timón sin tus pies y luego con ellos.
 Copia el número que te dirá el programa y después metelo en el diseño adjuntado de onshape
+link onshape: https://cad.onshape.com/documents/b7df1c6d75dbca150c312733/w/0a975e62208bc7a5049a8817/e/4e7948d3884854bfda58f8e1
